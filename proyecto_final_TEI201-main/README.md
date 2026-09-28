@@ -1,20 +1,24 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
-  - Nombre 2 - Rol 2
-  - Nombre 3 - Rol 3
-  - Nombre 4 - Rol 4
+  - Sofía Campos
+  - Rafaela Montero
+  - Sophia Fuenzalida
+  - Sofia Lagos
   
-- **ODS Seleccionado:** [Número y nombre]
-- **Problema a resolver:** [Descripción breve]
+- **ODS Seleccionado:**
+- 3. Bienestar y salud.
+- 11. Ciudades y comunidades sostenibles 
+
+- **Problema a resolver:** La somnolencia de camioneros durante recorridos de larga distancia.
+
 
 ### Descripción del Proyecto
 [Breve descripción de la solución IoT propuesta]
 
 ### Estado del Proyecto
-- **Versión actual:** v3.0
-- **Última actualización:** [Fecha]
-- **Estado:** Prototipo final
+- **Versión actual:** v1.0
+- **Última actualización:** 28-09-2026
+- **Estado:** Simulación del circuito
 
 ---
 
@@ -48,9 +52,9 @@
 ##  Checklist de Entrega
 
 ### Hardware ✓
-- [ ] Esquema del circuito (Fritzing/Wokwi)
-- [ ] BOM completo
-- [ ] Fotos de alta resolución
+- [✓] Esquema del circuito (Fritzing/Wokwi)
+- [✓] BOM completo
+- [✓] Fotos de alta resolución
 
 ### Software ✓
 - [ ] Código comentado
